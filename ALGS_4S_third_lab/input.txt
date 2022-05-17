@@ -1,0 +1,7 @@
+London;Paris;15;N/A
+Paris;Amsterdam;16;N/A
+Paris;Bratislava;100;91
+Amsterdam;Bratislava;20;N/A
+Bratislava;Berlin;30;40
+Berlin;Rome;20;13
+Rome;Paris;7;N/A
